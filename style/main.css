@@ -420,6 +420,11 @@ section.about .contener .imag::after {
 
 }
 
+@media (max-width:500px) {
+    section.about img{
+display: none;
+       
+    }
 section.about .contener .text {
     width: 50%;
 }

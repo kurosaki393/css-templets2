@@ -25,7 +25,6 @@ body {}
 header {
     width: 100%;
     padding: 15px;
-     background-color: red; 
 }
 
 .contener {
@@ -429,6 +428,12 @@ section.about .contener .text {
     width: 50%;
 }
 
-section.about .contener p:last-child {
+.about .contener p:last-child {
     color: #777777;
+}
+.about img{
+width:0px;
+    height :0px;
+    display :none;
+    opacity :0;
 }

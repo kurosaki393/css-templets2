@@ -1,4 +1,4 @@
-* {
+h {
     box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -432,3 +432,6 @@ section.about .contener .text {
 section.about .contener p:last-child {
     color: #777777;
 }
+    body{
+        background :blue !important ;
+    }
